@@ -1,6 +1,6 @@
-import NotificationButton from "./components/NotificationButton"
-import Header from "./components/Header"
-import SalesCard from "./components/SalesCard"
+import NotificationButton from "./components/NotificationButton";
+import Header from "./components/Header";
+import SalesCard from "./components/SalesCard";
 
 function App() {
   /* Exemplo: </> (Fragment): serve para retornar mais de 1 componente
@@ -26,4 +26,4 @@ function App() {
 
 }
 
-export default App
+export default App;

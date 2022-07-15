@@ -1,8 +1,8 @@
-import icon from '..//../assets/img/notification-icon.svg' // importa a imagem
+import icon from '..//../assets/img/notification-icon.svg'; // importa a imagem
 // icon - um apelido para a imagem
 // ../ - Volta 1 nivel
 
-import './style.css' // Para arquivos na mesma pasta, coloca ./
+import './style.css'; // Para arquivos na mesma pasta, coloca ./
 
 function NotificationButton() {
     return (
@@ -12,4 +12,4 @@ function NotificationButton() {
     )
 }
 
-export default NotificationButton
+export default NotificationButton;
